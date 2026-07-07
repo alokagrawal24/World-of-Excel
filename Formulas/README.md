@@ -47,7 +47,7 @@ Determine department wise bonus scale.
 =IF(C2="IT",IF(D2>=70000,"High Bonus",IF(D2>=40000,"Normal Bonus","No Bonus")),"Not Eligible")
 
 ### Explanation
-- Check whether the department is "IT" and based on salary bonus structure set.
+- Check whether the department is "IT" and based on salary , bonus scale set.
 - Check if the **employee's department** is **IT**.
 - If **No** returns **Not Eligible**.
 - If **Yes**, then:
