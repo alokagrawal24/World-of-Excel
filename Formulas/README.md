@@ -53,7 +53,7 @@ Determine department wise bonus scale.
 - If **Yes**, then:
   - **Salary>=70000** -> return **High Bonus**.
   - **Salary>=40000** -> return **Normal Bonus**.
-  - **Salary>=30000** -> return **No Bonus**.
+  - else return **No Bonus**.
   
 ### Learning Outcome
 After completing this example, you will understand:
