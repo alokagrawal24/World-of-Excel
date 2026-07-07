@@ -1,5 +1,5 @@
 #Formulas
-This folder contains Excel formula examples of commonl used Microsoft Excel Formulas
+This folder contains Excel formula examples of commonly used Microsoft Excel Formulas
 
 ## Example 1 : IF Function
 
